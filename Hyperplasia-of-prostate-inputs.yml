@@ -1,0 +1,21 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/hyperplasia-of-prostate---primary.py
+inputModule3:
+  class: File
+  path: python/hyperplasia-of-prostate-prostatism---primary.py
+inputModule4:
+  class: File
+  path: python/hyperplasia-of-prostate-benign---primary.py
+inputModule5:
+  class: File
+  path: python/hyperplasia-of-prostate-hypertrophy---primary.py
+inputModule6:
+  class: File
+  path: python/hyperplasia---primary.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
